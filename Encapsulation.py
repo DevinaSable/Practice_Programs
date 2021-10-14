@@ -1,8 +1,8 @@
 #creating a base class
 class Base:
     def __init__(self):
-        self.a = "GeekforFolks"
-        self.__C = "GeekForFolks"
+        self.a = "WellCome"
+        self.__C = "WellCome"
 
 #Creating a derived class
 class Derived(Base):
